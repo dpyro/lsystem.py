@@ -7,6 +7,7 @@ or
     python lsystem.py -v "sierpinksi triangle.ls" 4
 
 Dependencies:
+
 * hurry.filesize (text)
 * lepl (parsing)
 * pygame (rendering)

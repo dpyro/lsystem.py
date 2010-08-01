@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from lepl import *
 import numpy as np
 import getopt
